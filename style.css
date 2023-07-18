@@ -1,0 +1,21 @@
+.container{
+    background-color:  greenyellow;
+    text-align: center;
+    border-radius: 20px;
+    margin: 11rem;
+
+
+}
+.container:hover{
+    box-shadow: 0 0 25px #ff3dff,
+    0 0 25px #ff493d, 0 0 50px #ff493d,
+    0 0 100px #ff493d;
+    box-sizing: border-box;
+
+}
+.heading{
+    color: #ff3df2;
+}
+.jokes{
+        color: white
+}
